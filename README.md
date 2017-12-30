@@ -1,7 +1,5 @@
 # TextMining
 
-This is my project submission for the TextMining Project.
-It is a Dota 2 Meta Analyzer
-Super fun to write and implement. Hope you enjoy it as much as I did :)
+This is my project submission for the Text Mining Software Design Project.
 
-Write up is in attached .pdf titled TextMiningWriteup.pdf
+It is a Dota 2 Meta Analyzer. Sampling from the Dota 2 API, I am able to find and compare hero winrates, and rate the relative strengths of the heroes. In this project, I sample the past 100 games of Dota 2, and sort each one of 113 heroes by their respective winrate in those games.
